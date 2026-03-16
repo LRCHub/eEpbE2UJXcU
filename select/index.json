@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Face Down",
+  "base_artist": "The Red Jumpsuit Apparatus",
+  "createdAt": "2026-03-16T05:00:48.587332Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Face Down In The Dirt",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/01_Face_Down_In_The_Dirt_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Face Down",
+      "artist": "DJ Mustard feat. Lil Wayne, Big Sean, YG & Boosie Badazz",
+      "has_synced": true,
+      "path": "select/02_Face_Down_DJ_Mustard_feat._Lil_Wayne,_Big_Sean,_YG_&_Boosie_Badazz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Face Down (feat. Lil Wayne, Big Sean, YG & Lil Boosie)",
+      "artist": "DJ Mustard",
+      "has_synced": true,
+      "path": "select/03_Face_Down_(feat._Lil_Wayne,_Big_Sean,_YG_&_Lil_Boosie)_DJ_Mustard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Face Down In The Gutter",
+      "artist": "XYZ",
+      "has_synced": false,
+      "path": "select/04_Face_Down_In_The_Gutter_XYZ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Face Down",
+      "artist": "Hot Action Cop",
+      "has_synced": false,
+      "path": "select/05_Face_Down_Hot_Action_Cop.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Face Down in the Dirt",
+      "artist": "Napalm Death",
+      "has_synced": false,
+      "path": "select/06_Face_Down_in_the_Dirt_Napalm_Death.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Face Down",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/07_Face_Down_Prince.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Face Down",
+      "artist": "Monster Magnet",
+      "has_synced": true,
+      "path": "select/08_Face_Down_Monster_Magnet.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Face Down",
+      "artist": "L.A. Guns",
+      "has_synced": false,
+      "path": "select/09_Face_Down_L.A._Guns.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Face Down In the Gutter of Your Love",
+      "artist": "Dent May",
+      "has_synced": false,
+      "path": "select/10_Face_Down_In_the_Gutter_of_Your_Love_Dent_May.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bury Me Face Down",
+      "artist": "Grandson",
+      "has_synced": true,
+      "path": "select/11_Bury_Me_Face_Down_Grandson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Face Down",
+      "artist": "Unloco",
+      "has_synced": true,
+      "path": "select/12_Face_Down_Unloco.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Face Down",
+      "artist": "Unloco",
+      "has_synced": true,
+      "path": "select/13_Face_Down_Unloco.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bury Me Face Down",
+      "artist": "grandson",
+      "has_synced": true,
+      "path": "select/14_Bury_Me_Face_Down_grandson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Face Down",
+      "artist": "The Red Jumpsuit Apparatus",
+      "has_synced": true,
+      "path": "select/15_Face_Down_The_Red_Jumpsuit_Apparatus.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Face Down Ass Up",
+      "artist": "The 2 Live Crew",
+      "has_synced": false,
+      "path": "select/16_Face_Down_Ass_Up_The_2_Live_Crew.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Face Down Ass Up",
+      "artist": "2 Live Crew",
+      "has_synced": false,
+      "path": "select/17_Face_Down_Ass_Up_2_Live_Crew.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Face Down in the Blues",
+      "artist": "The Marshall Tucker Band",
+      "has_synced": false,
+      "path": "select/18_Face_Down_in_the_Blues_The_Marshall_Tucker_Band.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Face Down",
+      "artist": "The Red Jumpsuit Apparatus",
+      "has_synced": false,
+      "path": "select/pl_01_Face_Down_The_Red_Jumpsuit_Apparatus.txt"
+    }
+  ]
+}
