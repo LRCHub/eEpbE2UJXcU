@@ -1,0 +1,78 @@
+# The Red Jumpsuit Apparatus – Face Down
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Hey girl you know
+you drive me crazy
+One look puts the rhythm
+in my hand
+Still I'll never understand
+why you hang around
+I see what's going down
+Cover up with
+make up in the mirror
+Tell yourself
+it's never gonna happen again
+You cry alone and then
+he swears he loves you
+Do you feel like a man
+when you push her around
+Do you feel better now
+as she falls to the ground
+Well I'll tell you my friend
+one day this world's
+going to end
+As your lies crumble down
+a new life she has found
+A pebble in the water
+makes a ripple effect
+Every action in this world
+will bear a consequence
+If you wade around forever
+you will surely drown
+I see what's going down
+I see the way you go
+and say your right again
+say your right again
+heed my lecture
+Do you feel like a man
+when you push her around
+Do you feel better now
+as she falls to the ground
+Well I'll tell you my friend
+one day this world's
+going to end
+as your lies crumble down
+a new life she has found
+Face down in the dirt she says
+this doesn't hurt she says
+I finally had enough
+Face down in the dirt she says
+this doesn't hurt she says
+I finally had enough
+One day she will tell you
+that she has had enough
+it's coming round again
+Do you feel like a man
+when you push her around
+Do you feel better now
+as she falls to the grown
+Well I'll tell you my friend
+one day this world's
+going to end
+As your lies crumble down
+a new life she has found
+Do you feel like a man
+when you push her around
+Do you feel better now
+as she falls to the grown
+Well I'll tell you my friend
+one day this world's
+going to end
+As your lies crumble down
+a new life she has found
+Face down in the dirt she says
+this doesn't hurt she says
+I finally had enough
+```
